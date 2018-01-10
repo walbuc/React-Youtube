@@ -1,0 +1,31 @@
+h2, .search-bar {
+  margin: 25px;
+  text-align: center;
+}
+
+.video-item img {
+  max-width:64px;
+}
+
+.video-detail .details {
+  margin-top:10px;
+  padding:10px;
+  border: 1px splod #ddd;
+  border-radius: 4px;
+  color: white;
+}
+
+.list-group-pixel {
+  cursor:pointer;
+}
+
+.list-group-item :hover {
+  background-color: #eee;
+}
+
+#body {
+  background-color: black;
+}
+.container h2 {
+  margin-top:10px;
+}
