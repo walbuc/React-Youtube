@@ -3,7 +3,7 @@ React SPA for real time Youtube search
 
 ## Live demo deployed using now
 
-https://react-youtube-eaisgkwmyn.now.sh/
+https://react-youtube-ucnfjhkuhx.now.sh/
 
 ### Getting Started
 ```
